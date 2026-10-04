@@ -10,6 +10,8 @@ investigation, root cause, resolution, verification, and preventive action.
 > network — triaged and documented 8 incidents (outages, VPN, VLAN, DHCP,
 > latency) following ITIL-style incident workflow with RCAs.*
 
+**Lab series:** [Lab 1](https://github.com/kn2702-sys/enterprise-vlan-lab) · [Lab 2](https://github.com/kn2702-sys/dhcp-dns-failure-lab) · [Lab 3](https://github.com/kn2702-sys/LAB-3-Multi-Router-OSPF-Network) · [Lab 4](https://github.com/kn2702-sys/LAB-4-ACL-NAT-Internet-Edge) · [Lab 5](https://github.com/kn2702-sys/LAB-5-Site-to-Site-VPN-Firewall) · [Lab 6](https://github.com/kn2702-sys/LAB-6-Wireshark-NOC-Troubleshooting) · **Lab 7** · [Lab 8](https://github.com/kn2702-sys/LAB-8-AWS-VPC-Networking)
+
 ## Repository contents
 
 ```
